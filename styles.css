@@ -85,6 +85,7 @@ a:hover {
 .profile img {
   width: 200px;
   height: 100px; 
+  margin: 0 1em;
 }
 
 .profile .location {
