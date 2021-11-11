@@ -64,7 +64,7 @@ a:hover {
   width: 95%;
   max-width: 1000px;
   min-height: 90vh;
-  margin: 56px auto;
+  margin: auto auto;
   padding-left: 20px;
   padding-right: 20px;
 }
