@@ -61,11 +61,14 @@ a:hover {
 }
 
 .content {
+  width: 97%;
   max-width: 1000px;
   min-height: 90vh;
   margin: 25px 25px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .block {
