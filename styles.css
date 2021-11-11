@@ -40,7 +40,7 @@ body {
   line-height: 1.58;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  background-color: #5e0d63;
+  background-color: #330640;
   font-family: sans-serif;
   display: block;
 }
@@ -86,7 +86,7 @@ a:hover {
   width: 200px;
   height: 100px; 
   margin: 0 1em;
-  padding-top: 10px;
+  padding-top: 30px;
 }
 
 .profile .location {
