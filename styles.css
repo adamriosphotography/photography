@@ -40,7 +40,7 @@ body {
   line-height: 1.58;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  background: linear-gradient(45deg, rgba(43, 4, 35, 0.95) 10%, rgba(183, 18, 147, 0.95) 70%);
+  background: #ffffff;
   font-family: sans-serif;
   display: block;
 }
@@ -70,7 +70,7 @@ a:hover {
 
 .block {
   text-align: center;
-  background-color: #290426;
+  background-color: #ffffff;
   padding: 30px;
   border-radius: 3%;
   width: 95%;
