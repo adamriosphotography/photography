@@ -68,6 +68,11 @@ a:hover {
   padding-right: 20px;
 }
 
+.block {
+  text-align: center;
+  background-color: #2d2f39;
+  padding: 30px;
+}
 
 .profile {
   margin-top: -60px;
