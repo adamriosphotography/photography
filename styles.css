@@ -40,7 +40,7 @@ body {
   line-height: 1.58;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  background-color: #191b21;
+  background-color: #5e0d63;
   font-family: sans-serif;
   display: block;
 }
@@ -68,11 +68,6 @@ a:hover {
   padding-right: 20px;
 }
 
-.block {
-  text-align: center;
-  background-color: #2d2f39;
-  padding: 30px;
-}
 
 .profile {
   margin-top: -60px;
