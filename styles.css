@@ -87,9 +87,10 @@ a:hover {
 }
 
 .profile img {
-  width: 248px;
-  height: 83.91px; 
-  padding-top: 40px;
+  width: 210px;
+  height: 70px; 
+  padding-top: 60px;
+  padding-bottom: 60px;
   margin: 0 1em;
 }
 
