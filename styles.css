@@ -3,7 +3,7 @@ h2,
 h3,
 h4,
 h5 {
-  color: slategray;
+  color: rgba(0,0,0,.6);
 }
 
 blockquote,
@@ -34,14 +34,14 @@ ul {
 }
 
 body {
-  color: #7f8d9e;
-  font-size: 21px;
+  color: rgba(0,0,0,.6);
+  font-size: 15px;
   font-weight: 400;
   line-height: 1.58;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   background: #ffffff;
-  font-family: sans-serif;
+  font-family: "montserrat",sans-serif;
   display: block;
 }
 
@@ -95,13 +95,13 @@ a:hover {
 
 .profile .location {
   margin-top: 0px;
-  font-size: 0.8em;
+  font-size: 15px;
 }
 
 .profile .bio {
   color: #c13584;
   margin-top: 15px;
-  font-size: 0.7em;
+  font-size: 15px;
 }
 
 .links {
