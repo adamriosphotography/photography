@@ -192,62 +192,12 @@ a.link:hover {
 
 .beacon {
   position: absolute;
-  -webkit-animation: beacon 2s ease infinite, tr 2s ease-out infinite;
-  animation: beacon 2s ease infinite, tr 2s ease-out infinite;
   opacity: 0.85;
   width: 60px;
   height: 60px;
-  border-radius: 3px;
+  border-radius: 10px;
 }
 
-@-webkit-keyframes beacon {
-  from {
-    opacity: 0.85;
-  }
-  to {
-    opacity: 0;
-  }
-}
-@keyframes beacon {
-  from {
-    opacity: 0.85;
-  }
-  to {
-    opacity: 0;
-  }
-}
-@-webkit-keyframes tr {
-  from {
-    transform: scaleX(1) scaleY(1);
-  }
-  to {
-    transform: scaleX(1.5) scaleY(1.5);
-  }
-}
-@keyframes tr {
-  from {
-    transform: scaleX(1) scaleY(1);
-  }
-  to {
-    transform: scaleX(1.5) scaleY(1.5);
-  }
-}
-@-webkit-keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
 
 .amazon {
   background-color: #c13584;
